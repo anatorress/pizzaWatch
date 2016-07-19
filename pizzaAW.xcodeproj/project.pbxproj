@@ -19,6 +19,16 @@
 		9CA77D861D3E99CB00E022F4 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77D851D3E99CB00E022F4 /* InterfaceController.swift */; };
 		9CA77D881D3E99CB00E022F4 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77D871D3E99CB00E022F4 /* ExtensionDelegate.swift */; };
 		9CA77D8A1D3E99CB00E022F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CA77D891D3E99CB00E022F4 /* Assets.xcassets */; };
+		9CA77D9A1D3E9D7700E022F4 /* vistaTam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77D991D3E9D7700E022F4 /* vistaTam.swift */; };
+		9CA77D9C1D3E9DF100E022F4 /* sizePizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77D9B1D3E9DF100E022F4 /* sizePizza.swift */; };
+		9CA77D9E1D3EA06900E022F4 /* vistaMasaInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77D9D1D3EA06900E022F4 /* vistaMasaInterfaceController.swift */; };
+		9CA77DA01D3EA09300E022F4 /* masaPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77D9F1D3EA09300E022F4 /* masaPizza.swift */; };
+		9CA77DA21D3EA1E500E022F4 /* quesoPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77DA11D3EA1E500E022F4 /* quesoPizza.swift */; };
+		9CA77DA41D3EA1F100E022F4 /* extrasPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77DA31D3EA1F100E022F4 /* extrasPizza.swift */; };
+		9CA77DA61D3EA1FF00E022F4 /* vistaQuesoInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77DA51D3EA1FF00E022F4 /* vistaQuesoInterfaceController.swift */; };
+		9CA77DA81D3EA20C00E022F4 /* vistaExtra.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77DA71D3EA20C00E022F4 /* vistaExtra.swift */; };
+		9CA77DAA1D3EA25800E022F4 /* vistaConfirmar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77DA91D3EA25800E022F4 /* vistaConfirmar.swift */; };
+		9CA77DAC1D3EA26C00E022F4 /* confirmarPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA77DAB1D3EA26C00E022F4 /* confirmarPizza.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +90,16 @@
 		9CA77D871D3E99CB00E022F4 /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		9CA77D891D3E99CB00E022F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9CA77D8B1D3E99CB00E022F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CA77D991D3E9D7700E022F4 /* vistaTam.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vistaTam.swift; sourceTree = "<group>"; };
+		9CA77D9B1D3E9DF100E022F4 /* sizePizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sizePizza.swift; sourceTree = "<group>"; };
+		9CA77D9D1D3EA06900E022F4 /* vistaMasaInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vistaMasaInterfaceController.swift; sourceTree = "<group>"; };
+		9CA77D9F1D3EA09300E022F4 /* masaPizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = masaPizza.swift; sourceTree = "<group>"; };
+		9CA77DA11D3EA1E500E022F4 /* quesoPizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = quesoPizza.swift; sourceTree = "<group>"; };
+		9CA77DA31D3EA1F100E022F4 /* extrasPizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = extrasPizza.swift; sourceTree = "<group>"; };
+		9CA77DA51D3EA1FF00E022F4 /* vistaQuesoInterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vistaQuesoInterfaceController.swift; sourceTree = "<group>"; };
+		9CA77DA71D3EA20C00E022F4 /* vistaExtra.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vistaExtra.swift; sourceTree = "<group>"; };
+		9CA77DA91D3EA25800E022F4 /* vistaConfirmar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = vistaConfirmar.swift; sourceTree = "<group>"; };
+		9CA77DAB1D3EA26C00E022F4 /* confirmarPizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = confirmarPizza.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +170,16 @@
 				9CA77D871D3E99CB00E022F4 /* ExtensionDelegate.swift */,
 				9CA77D891D3E99CB00E022F4 /* Assets.xcassets */,
 				9CA77D8B1D3E99CB00E022F4 /* Info.plist */,
+				9CA77D991D3E9D7700E022F4 /* vistaTam.swift */,
+				9CA77D9B1D3E9DF100E022F4 /* sizePizza.swift */,
+				9CA77D9D1D3EA06900E022F4 /* vistaMasaInterfaceController.swift */,
+				9CA77D9F1D3EA09300E022F4 /* masaPizza.swift */,
+				9CA77DA11D3EA1E500E022F4 /* quesoPizza.swift */,
+				9CA77DA31D3EA1F100E022F4 /* extrasPizza.swift */,
+				9CA77DA51D3EA1FF00E022F4 /* vistaQuesoInterfaceController.swift */,
+				9CA77DA71D3EA20C00E022F4 /* vistaExtra.swift */,
+				9CA77DA91D3EA25800E022F4 /* vistaConfirmar.swift */,
+				9CA77DAB1D3EA26C00E022F4 /* confirmarPizza.swift */,
 			);
 			path = "pizzaAW WatchKit Extension";
 			sourceTree = "<group>";
@@ -295,8 +325,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CA77DAA1D3EA25800E022F4 /* vistaConfirmar.swift in Sources */,
+				9CA77DA81D3EA20C00E022F4 /* vistaExtra.swift in Sources */,
+				9CA77DAC1D3EA26C00E022F4 /* confirmarPizza.swift in Sources */,
 				9CA77D881D3E99CB00E022F4 /* ExtensionDelegate.swift in Sources */,
+				9CA77DA41D3EA1F100E022F4 /* extrasPizza.swift in Sources */,
+				9CA77D9A1D3E9D7700E022F4 /* vistaTam.swift in Sources */,
 				9CA77D861D3E99CB00E022F4 /* InterfaceController.swift in Sources */,
+				9CA77D9C1D3E9DF100E022F4 /* sizePizza.swift in Sources */,
+				9CA77DA21D3EA1E500E022F4 /* quesoPizza.swift in Sources */,
+				9CA77DA01D3EA09300E022F4 /* masaPizza.swift in Sources */,
+				9CA77DA61D3EA1FF00E022F4 /* vistaQuesoInterfaceController.swift in Sources */,
+				9CA77D9E1D3EA06900E022F4 /* vistaMasaInterfaceController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
